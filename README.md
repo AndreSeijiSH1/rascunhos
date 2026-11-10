@@ -5,5 +5,8 @@
 * 21/09 prova de banco de dados✅
 * 22/10 prova n1 estrutura de dados (prova no papel)✅
 
+* 
+#Links importantes
 * https://fecapwebfullstack.netlify.app/
+* https://www.gamefy.education/dashboard
 * https://www.figma.com/design/qwkS7rEec3A8M7KsTuqPJa/Sem-t%C3%ADtulo?node-id=0-1&t=Y3vIFlMO8vjOmwii-1
