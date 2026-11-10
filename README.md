@@ -1,12 +1,31 @@
-# PROJETOS
-* email do professor: Francisco.Escobar@Fecap.br
-* fazer lição do figma até sábado dia 08/08/26✅
-* fazer lição do site responsivo de full stack até 08/08/26✅
-* 21/09 prova de banco de dados✅
-* 22/10 prova n1 estrutura de dados (prova no papel)✅
+# 📅 Calendário Acadêmico — FECAP
 
-* 
-#Links importantes
-* https://fecapwebfullstack.netlify.app/
-* https://www.gamefy.education/dashboard
-* https://www.figma.com/design/qwkS7rEec3A8M7KsTuqPJa/Sem-t%C3%ADtulo?node-id=0-1&t=Y3vIFlMO8vjOmwii-1
+> [!IMPORTANT]
+> **Próxima prova:** 28/11 (sáb) — PO de Expert System Certification
+
+## 📝 Próximas provas
+
+| Data | Dia | Disciplina | Tipo | Status |
+|:----:|:---:|------------|:----:|:------:|
+| 28/11/26 | sáb | Expert System Certification | Prova PO | ⏳ |
+| 30/11/26 | seg | Banco de Dados | Prova PO | ⏳ |
+| 02/12/26 | qua | Design de Interface | Prova PO | ⏳ |
+
+## ✅ Concluídos
+
+| Data | Dia | Atividade | Status |
+|:----:|:---:|-----------|:------:|
+| 08/08/26 | sáb | Lição do Figma | ✅ |
+| 08/08/26 | sáb | Lição do site responsivo (Full Stack) | ✅ |
+| 21/09/26 | seg | Prova de Banco de Dados | ✅ |
+| 22/10/26 | qui | Prova N1 de Estrutura de Dados *(no papel)* | ✅ |
+
+---
+
+## 🔗 Links importantes
+
+| Recurso | Link |
+|---------|------|
+| 🌐 Site Full Stack (Netlify) | [fecapwebfullstack.netlify.app](https://fecapwebfullstack.netlify.app/) |
+| 🎮 Gamefy — Dashboard | [gamefy.education/dashboard](https://www.gamefy.education/dashboard) |
+| 🎨 Projeto no Figma | [Abrir no Figma](https://www.figma.com/design/qwkS7rEec3A8M7KsTuqPJa/Sem-t%C3%ADtulo?node-id=0-1&t=Y3vIFlMO8vjOmwii-1) |
