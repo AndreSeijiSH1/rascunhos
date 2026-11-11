@@ -9,8 +9,9 @@
 |:----:|:---:|------------|:----:|:------:|
 | 28/11/26 | sáb | Expert System Certification | Prova PO | ⏳ |
 | 30/11/26 | seg | Banco de Dados | Prova PO | ⏳ |
-| 02/12/26 | qua | Design de Interface | Prova PO | ⏳ |
 | 01/12/26 | terça | Desenvolvimento Web Fullstack | Prova PO | ⏳ |
+| 02/12/26 | qua | Design de Interface | Prova PO | ⏳ |
+
 
 ## ✅ Concluídos
 
