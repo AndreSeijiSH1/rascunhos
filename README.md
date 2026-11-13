@@ -1,12 +1,13 @@
 # 📅 Calendário Acadêmico — FECAP
 
 > [!IMPORTANT]
-> **Próxima prova:** 28/11 (sáb) — PO de Expert System Certification
+> **Próxima prova:** 26/11 (quinta) — PO de Estrutura de Dados
 
 ## 📝 Próximas provas
 
 | Data | Dia | Disciplina | Tipo | Status |
 |:----:|:---:|------------|:----:|:------:|
+| 26/11/26 | quin | Estrutura de Dados | Prova PO | ⏳ |
 | 28/11/26 | sáb | Expert System Certification | Prova PO | ⏳ |
 | 30/11/26 | seg | Banco de Dados | Prova PO | ⏳ |
 | 01/12/26 | terça | Desenvolvimento Web Fullstack | Prova PO | ⏳ |
