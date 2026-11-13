@@ -12,6 +12,7 @@
 | 30/11/26 | seg | Banco de Dados | Prova PO | ⏳ |
 | 01/12/26 | terça | Desenvolvimento Web Fullstack | Prova PO | ⏳ |
 | 02/12/26 | qua | Design de Interface | Prova PO | ⏳ |
+| 04/12/26 | sext | Programação Orientada a Objetos | Prova PO | ⏳ |
 
 
 ## ✅ Concluídos
